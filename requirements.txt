@@ -3,6 +3,7 @@ streamlit
 plotly
 python-dotenv
 altair
+gunicorn
 bokeh
 requests
 flask
